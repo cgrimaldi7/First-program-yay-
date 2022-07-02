@@ -1,0 +1,9 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout << "Hello World!\n";
+	cout << "My name is Claudia."<<endl;
+	cout << "Today is July 1st, 2022. This is my first program. Although it's very basic, I am still very proud of it hehe.";
+	system("pause>0");
+}
